@@ -18,13 +18,13 @@ $apt install python
 
 #cloneing & install
 
-$git clone https://github.com/jailbreakandroot/jailbreakandroot-framework
+$git clone https://github.com/AmirCyber01/LammerTVF
 
-$cd jailbreakandroot-framework
+$cd LammerTVF
 
 $python install.py
 
-$python2 jrf.py
+$python2 LammerTVF.py
 
 ==================================
 

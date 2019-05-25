@@ -29,5 +29,4 @@ $python2 jrf.py
 ==================================
 
 #programming 
-
-AmirCyber01 
+#amircyber01
